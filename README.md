@@ -1,5 +1,5 @@
 # Upskilling | Redux
-> This documentation focuses on practicing Redux - a state management library.
+> This documentation focuses on practicing Redux - a state management library
 
 ### Installation
 * Ensure Node and npm are installed
